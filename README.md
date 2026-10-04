@@ -32,7 +32,7 @@ To diagnose and resolve these operational leaks, an enterprise data pipeline was
 ### Page 1: Omnichannel Growth & Logistics Performance
 > **Focus:** High-level platform GMV expansion, order volume trajectory, unit economics (AOV), and geographical delivery turnaround bottlenecks across Brazilian states.
 
-![Page 1: Omnichannel Growth & Logistics Performance](power _bi/dashboard_page1_executive.png)
+![Page 1: Omnichannel Growth & Logistics Performance](power_bi/dashboard_page1_executive.png)
 
 ---
 
@@ -76,17 +76,17 @@ To diagnose and resolve these operational leaks, an enterprise data pipeline was
 ---
 
 ## 📌 Strategic Conclusions & Executive Recommendations
-Trigger Automated Re-Engagement within the Unboxing Window:
+### 1. Trigger Automated Re-Engagement within the Unboxing Window:
 
-Because attrition happens almost entirely in Month 1, marketing automation should trigger tailored replenishment reminders, cross-category recommendations, and time-sensitive incentives within 14 to 21 days post-delivery—while unboxing satisfaction is fresh.
+* Because attrition happens almost entirely in Month 1, marketing automation should trigger tailored replenishment reminders, cross-category recommendations, and time-sensitive incentives within 14 to 21 days post-delivery—while unboxing satisfaction is fresh.
 
-Protect High-Value Buyers with Dedicated Loyalty Perks:
+### 2. Protect High-Value Buyers with Dedicated Loyalty Perks:
 
-With Champions delivering disproportionately high basket values, the business should introduce dedicated loyalty tiers, exclusive product drops, and priority customer care to prevent these vital revenue contributors from drifting into the at-risk segment.
+* With Champions delivering disproportionately high basket values, the business should introduce dedicated loyalty tiers, exclusive product drops, and priority customer care to prevent these vital revenue contributors from drifting into the at-risk segment.
 
-Transition from Blanket Free Shipping to Dynamic Surcharges:
+### 3. Transition from Blanket Free Shipping to Dynamic Surcharges:
 
-To plug freight margin leakage, the platform should implement dynamic, distance-based shipping rate cards at checkout, ensuring carrier base costs in long-haul delivery zones are fully recovered or subsidized only on high-margin baskets.
+* To plug freight margin leakage, the platform should implement dynamic, distance-based shipping rate cards at checkout, ensuring carrier base costs in long-haul delivery zones are fully recovered or subsidized only on high-margin baskets.
 
 ---
 
