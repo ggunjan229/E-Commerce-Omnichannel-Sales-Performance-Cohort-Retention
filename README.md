@@ -32,7 +32,7 @@ To diagnose and resolve these operational leaks, an enterprise data pipeline was
 ### Page 1: Omnichannel Growth & Logistics Performance
 > **Focus:** High-level platform GMV expansion, order volume trajectory, unit economics (AOV), and geographical delivery turnaround bottlenecks across Brazilian states.
 
-![Page 1: Omnichannel Growth & Logistics Performance](power_bi/dashboard_page1_executive.png)
+![Page 1: Omnichannel Growth & Logistics Performance](power _bi/dashboard_page1_executive.png)
 
 ---
 
@@ -75,7 +75,7 @@ To diagnose and resolve these operational leaks, an enterprise data pipeline was
 
 ---
 
-## Strategic Conclusions & Executive Recommendations
+## 📌 Strategic Conclusions & Executive Recommendations
 Trigger Automated Re-Engagement within the Unboxing Window:
 
 Because attrition happens almost entirely in Month 1, marketing automation should trigger tailored replenishment reminders, cross-category recommendations, and time-sensitive incentives within 14 to 21 days post-delivery—while unboxing satisfaction is fresh.
@@ -124,7 +124,7 @@ To plug freight margin leakage, the platform should implement dynamic, distance-
 | :--- | :--- | :--- |
 | **Python** | Data Cleaning, Pipeline Automation & EDA | `pandas`, `numpy`, `matplotlib`, `seaborn`, `pyarrow` (Parquet) |
 | **PostgreSQL** | Relational Star Schema & Analytics Engine | `NTILE(5)`, `CASE WHEN`, `EXTRACT(EPOCH)`, Window Functions, CTEs |
-| **Microsoft Excel** | Financial Reconciliation & Freight Audits | Power Query (M-Code), `LET()`, `XLOOKUP()`, `SORT(UNIQUE())`, Dynamic Spills |
+| **Microsoft Excel** | Financial Reconciliation & Freight Audits | Power Query, `LET()`, `XLOOKUP()`, `SORT(UNIQUE())`, Dynamic Spills |
 | **Power BI** | Executive BI Dashboarding & Modeling | Star Schema, `CALCULATE()`, `AVERAGEX()`, `CROSSFILTER()`, Matrix Heatmaps |
 | **Git / GitHub** | Version Control & Portfolio Presentation | Production directory architecture, Git hygiene, `.gitignore` |
 
