@@ -1,0 +1,19 @@
+# Raw and intermediate large data files
+data/raw/*.csv
+*.csv
+
+# Python / Jupyter Cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+env/
+
+# Power BI auto-recovery
+*.pbit
+*.tmp
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+desktop.ini
